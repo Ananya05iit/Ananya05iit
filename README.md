@@ -23,13 +23,13 @@
 
 <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=AkankshCaimi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananya05iit" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkankshCaimi&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananya05iit" /></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=Ananya05iit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananya05iit" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ananya05iit&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananya05iit" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshCaimi&theme=dark" alt="Ananya05iit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya05iit&theme=dark" alt="Ananya05iit" /></p>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Ananya05iit.svg?style=social&label=Follow)](https://github.com/Ananya05iit?tab=followers)
